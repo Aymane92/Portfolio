@@ -80,13 +80,13 @@ nav {
 .cta-btn {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 20px;
   background-color: #0a66c2;
   color: #ffffff;
   border: none;
   padding: 10px 16px;
   border-radius: 15px;
-  font-size: 40px;
+  font-size: 30px;
   cursor: pointer;
   transition: background 0.3s;
 }
