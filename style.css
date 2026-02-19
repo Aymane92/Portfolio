@@ -159,16 +159,14 @@ section p {
 
 .doc-preview {
   position: relative;
-  height: 300px; /* hauteur fixe pour l’aperçu */
+  height: 300px;
   overflow: hidden;
   border-radius: 15px 15px 0 0;
 }
 
-.doc-preview img {
+.doc-preview iframe {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
+  height: 400px; 
 }
 
 .fade-bottom {
