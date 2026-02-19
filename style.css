@@ -22,7 +22,7 @@ nav {
 .nav-left {
   display: flex;
   align-items: center;
-  gap: 25px;
+  gap: 15px;
 }
 
 .nav-center {
@@ -85,8 +85,8 @@ nav {
   color: #ffffff;
   border: none;
   padding: 10px 16px;
-  border-radius: 8px;
-  font-size: 14px;
+  border-radius: 15px;
+  font-size: 20px;
   cursor: pointer;
   transition: background 0.3s;
 }
@@ -96,8 +96,8 @@ nav {
 }
 
 .cta-btn img {
-  width: 20px;
-  height: 20px;
+  width: 20%;
+  height: 80%;
 }
 
 section {
