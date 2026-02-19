@@ -86,7 +86,7 @@ nav {
   border: none;
   padding: 10px 16px;
   border-radius: 15px;
-  font-size: 20px;
+  font-size: 40px;
   cursor: pointer;
   transition: background 0.3s;
 }
@@ -96,8 +96,8 @@ nav {
 }
 
 .cta-btn img {
-  width: 20%;
-  height: 50%;
+  width: 40px;
+  height: 40px;
 }
 
 section {
